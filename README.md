@@ -1,1 +1,1 @@
-<p align="center" width="100%" height="120px"><img width="120px" height="120px" src="https://raw.githubusercontent.com/cmd-v1/quickactionsx-icon/main/hand-press-action-icon.jpg?token=GHSAT0AAAAAACRXXDLJVUC7D5PID5WIVFYGZTBHUVQ"></p>
+<p align="center" width="100%" height="120px"><img width="120px" height="120px" src="https://ibb.co/CKL80Lx"></p>
